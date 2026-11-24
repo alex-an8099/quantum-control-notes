@@ -1,0 +1,8 @@
+# 처음 설치한 뒤 `pip freeze > requirements.lock.txt`로 실제 버전을 기록해 두세요.
+numpy
+scipy
+matplotlib
+jupyterlab
+qutip
+qcodes
+pyvisa-sim
