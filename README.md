@@ -38,6 +38,8 @@ templates/         노트 양식
 
 ## 실행 환경
 
+Python 3.12 이상이 필요합니다. 최신 QCoDeS, NumPy, SciPy가 3.12 이상만 지원합니다.
+
 ```
 python -m venv .venv
 .venv\Scripts\activate

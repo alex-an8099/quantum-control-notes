@@ -1,3 +1,4 @@
+# Python 3.12 이상 필요
 # 처음 설치한 뒤 `pip freeze > requirements.lock.txt`로 실제 버전을 기록해 두세요.
 numpy
 scipy
