@@ -15,7 +15,7 @@ Notes are mostly in Korean; code, figures and headings are in English where poss
 
 | 단계 | 내용 | 기간 | 상태 |
 |---|---|---|---|
-| 1 | [양자 기초](01-foundations/) | 2026년 12월 | 시작 전 |
+| 1 | [양자 기초](01-foundations/) | 2026년 12월 | 진행 중 |
 | 2 | [큐비트 측정과 제어](02-qubit-control/) | 2027년 1월 | 시작 전 |
 | 3 | [QCoDeS 실습](03-qcodes/) | 2027년 1월 말~2월 초 | 시작 전 |
 | 4 | 첫 오픈소스 기여 | 2027년 2월 | 시작 전 |
